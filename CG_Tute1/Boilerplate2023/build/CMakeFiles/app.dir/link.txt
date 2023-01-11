@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/src/hello_colors.cpp.o -o app  libraries/glfw/src/libglfw3.a libglad.a -ldl -lfreetype -lGL -lGLEW -lGLU -lGL -lpthread -lrt -lm -ldl -lGLEW -lGLU 
